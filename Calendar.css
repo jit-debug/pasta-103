@@ -1,0 +1,24 @@
+.calendar-container {
+    margin:   0;
+}
+table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #dee2e6;
+}
+th {
+    text-align: center;
+    background-color: #007bff;
+    color: white;
+}
+.weekdays {
+    background-color: #6c757d;
+    color: white;
+}
+ 
